@@ -1,10 +1,9 @@
-# Binary-Ninja-Marimo-Analysis-Notebook
-Binary Ninja Marimo Analysis Notebook
+# Binary Ninja Marimo Analysis Notebook
 
 Marimo notebook for Binary Ninja to analyse headless the extracted artefacts from Binary Ninja scripting.
 
 ## Clone the repo
-git clone https://github.com/meerkatone/Binary-Ninja-Marimo-Analysis-Notebook.git
+git clone https://github.com/meerkatone/binary_ninja_marimo_analysis_notebook.git
 
 ## Install Rust
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
